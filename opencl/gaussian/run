@@ -1,0 +1,3 @@
+#./gaussian 1 1 1 -f ../../data/gaussian/matrix16.txt -t -c
+./gaussian 1 1 1 -f ../../data/gaussian/matrix208.txt -t -c
+#./gaussian 4 8 8 -s 1024 -t

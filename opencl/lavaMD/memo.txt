@@ -1,0 +1,4 @@
+main.c의 193-249 부분도 gpu 통해서 연산해서 넣는게 좋을까?
+kernel_gpu_opencl_wrapper.c의 fixme 참조
+
+kernel 프로그램 빌드에서 문제. (로컬에서만 발생)

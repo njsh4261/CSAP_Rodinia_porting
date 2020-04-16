@@ -1,0 +1,3 @@
+kernel_fin.c의 kernel_fin 함수: 상수 시간 내에 계산.
+kernel_gpu_opencl_wrapper에서 clCreateBuffer, master에서 clEnqueueWriteBuffer
+master를 호출하는 embedded_fehlberg_7_8에서 master를 여러 회 호출하고, 호출시마다 buffer에 할당되는 배열이 달라짐.
